@@ -25,7 +25,9 @@ SECRET_KEY = '&=d%&!gq0-0!j5(u#!k=u(vvzkh7p=74=)&-rvi&=!1*5$58@t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'fmdiaz.pythonanywhere.com',
+]
 
 
 # Application definition
